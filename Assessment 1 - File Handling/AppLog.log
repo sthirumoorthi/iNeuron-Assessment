@@ -1,0 +1,5 @@
+2022-06-07 00:22:27,681 INFO *** Application started ***
+2022-06-07 00:22:27,681 INFO ... New object was initiated ...
+2022-06-07 00:22:27,689 INFO File read operation executed for file: TextFile.txt
+2022-06-07 00:22:27,689 INFO File update operation executed for the file: TextFile.txt
+2022-06-07 00:22:27,689 INFO File read operation executed for file: TextFile.txt
